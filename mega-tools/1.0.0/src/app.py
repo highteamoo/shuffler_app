@@ -41,6 +41,7 @@ import paramiko
 import concurrent.futures
 import multiprocessing
 import psycopg2
+import clickhouse_connect
 
 #from walkoff_app_sdk.app_base import AppBase
 from shuffle_sdk import AppBase
