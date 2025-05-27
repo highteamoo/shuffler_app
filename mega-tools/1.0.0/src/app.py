@@ -55,7 +55,7 @@ os._exit = sys.exit
 class Tools(AppBase):
     __version__ = "1.2.0"
     app_name = (
-        "Super Tools"  # this needs to match "name" in api.yaml for WALKOFF to work
+        "Mega Tools"  # this needs to match "name" in api.yaml for WALKOFF to work
     )
 
     def __init__(self, redis, logger, console_logger=None):
