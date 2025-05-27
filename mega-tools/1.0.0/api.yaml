@@ -1,7 +1,7 @@
 ---
 app_version: 1.0.0
-name: Super Tools
-description: A tool app for Shuffle. Gives access to most missing features along with Liquid.
+name: Mega Tools
+description: A custom tool app for Shuffle. pgsql clickhouse libs added
 tags:
   - Test
   - Shuffle
