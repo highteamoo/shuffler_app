@@ -1,7 +1,7 @@
 # Build testing
-NAME=super-tools_1.0.0
+NAME=mega-tools_1.0.0
 docker rmi $NAME --force
-docker build . -t super-tools_1.0.0
+docker build . -t mega-tools_1.0.0
 
 # Run testing
 #docker run -e SHUFFLE_SWARM_CONFIG=run -e SHUFFLE_APP_EXPOSED_PORT=33334 frikky/shuffle:shuffle-tools_1.1.0 
